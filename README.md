@@ -1,0 +1,1 @@
+After cloning the repo, type 'npm run-script setup'. This will npm install and update the selenium webdriver. After this is done, just use gulp for task automation.
